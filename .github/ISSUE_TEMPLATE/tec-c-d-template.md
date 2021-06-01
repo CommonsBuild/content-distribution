@@ -25,5 +25,9 @@ assignees: chuygarcia92
 - [ ] Call-To-Action (focused on community)
 - [ ] Engage/Invite (meant for wider audiences outside TEC & friends)
 
-**4- Additional notes**
+**4- Is this content finished?**
+- [ ] Yes
+- [ ] No, it needs to be made
+
+**5- Additional notes**
 > Let us know anything else you find relevant in the distribution process of this content.
